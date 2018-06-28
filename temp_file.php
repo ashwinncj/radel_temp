@@ -1,3 +1,2 @@
 <?php
-//Tepm file here
 ?>
